@@ -1,0 +1,1 @@
+Avoid creating a repository within a repository>>>>>>> indicate a conflictCreate a remote repositoryHTTS or SSH: use SSH here because, while it requires some additional configuration, it is a security protocol widely used by many applications. Recall that we set up SSH in the setup episode.
